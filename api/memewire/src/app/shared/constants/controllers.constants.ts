@@ -1,0 +1,1 @@
+export const SEARCH_MEME_CONTROLLER = 'searchmeme'

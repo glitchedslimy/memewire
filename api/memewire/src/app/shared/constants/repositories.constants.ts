@@ -1,0 +1,1 @@
+export const SEARCH_MEME_REPOSITORY_PROVIDER = 'SearchMemeRepositoryProvider'
